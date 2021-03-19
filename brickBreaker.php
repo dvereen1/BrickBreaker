@@ -18,7 +18,7 @@
                                 </a>
                             </li>
                             <li class = "menu-link">
-                                <a onclick = "alert('Currently testing the code across multiple browsers, both desktop and mobile. Project code will be available on GitHub soon.');" href ="#">Code</a>
+                                <a href ="https://github.com/dvereen1/BrickBreaker">View Code</a>
                             </li>
                         </ul>
                     
