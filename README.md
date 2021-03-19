@@ -2,6 +2,8 @@
 
 Play the beginnings of the classic brick breaker game.
 
+[Play here](https://darianvereen.com/HTML_PHP/projects/JSGames/BrickBreaker/brickBreaker.php)
+
 ## PHP Includes
 In the [brickBreaker.php file](https://github.com/dvereen1/BrickBreaker/blob/main/brickBreaker.php), you'll notice some includes.
 
